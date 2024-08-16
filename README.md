@@ -11,7 +11,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,css,dart,devto,express,figma,firebase,flutter,git,github,html,java,js,jquery,mysql,nodejs,npm,php,postman,react,tailwind,ts,vscode,yarn&perline=14" />
   </a>
 </p>
 
