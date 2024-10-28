@@ -55,10 +55,24 @@ public class HolaMundo {
 
 ¡Bienvenido! Aquí podrás encontrar algunos de los proyectos y desarrollos en los que he trabajado. Échales un vistazo 👉 
 
-| Jungle System | Inventory Jungle System |
+| Jungle System | Inventory Jungle System | 
 | ------------- | ----------------------- |
-| <a href="https://junglesystem.com.mx/" target="_blank"><img src="https://github.com/user-attachments/assets/2d1d0a66-58db-420f-9a24-f25c73fc7582" alt="Jungle System" /></a> | <img ![image](https://github.com/user-attachments/assets/ac3cec3d-be05-433a-ac27-6a9e3f9a4202)
- /> 
+| <a href="https://URL_DESEADA_1" target="_blank"><img src="https://github.com/user-attachments/assets/3f06fe8a-518b-48d4-a0c5-e7281efbc873" alt="Jungle System" /></a> | <a href="https://URL_DESEADA_2" target="_blank"><img src="https://github.com/user-attachments/assets/ac3cec3d-be05-433a-ac27-6a9e3f9a4202" alt="Inventory Jungle System" /></a> |
+
+| Diego Coria | Aqua-Vision |
+| ------------- | ----------------------- |
+| <a href="https://URL_DESEADA_3" target="_blank"><img src="https://github.com/user-attachments/assets/44d635bf-fbd2-4a0a-b309-fc5e7f0a31fe" alt="Diego Coria" /></a> | <a href="https://URL_DESEADA_4" target="_blank"><img src="https://github.com/user-attachments/assets/578b2b3b-e698-45c2-a934-c64f08579ae9" alt="Aqua-Vision" /></a> |
+
+| CMCA | Advisor |
+| ------------- | ----------------------- |
+| <a href="https://URL_DESEADA_3" target="_blank"><img src="https://github.com/user-attachments/assets/daa8c4ce-7ea5-49fb-8cd4-fbec3160073d" alt="Diego Coria" /></a> | <a href="https://URL_DESEADA_4" target="_blank"><img src="https://github.com/user-attachments/assets/f857ff3b-f60a-457b-baea-0d27cbae1b9d" alt="Aqua-Vision" /></a> |
+
+| VivoCable | ImperialTicket (Proyecto Escolar)|
+| ------------- | ----------------------- |
+| <a href="https://URL_DESEADA_3" target="_blank"><img src="https://github.com/user-attachments/assets/6917709c-7f5c-48d3-b54b-0911efe4dd92" alt="Diego Coria" /></a> | <a href="https://URL_DESEADA_4" target="_blank"><img src="https://github.com/user-attachments/assets/f857ff3b-f60a-457b-baea-0d27cbae1b9d" alt="Aqua-Vision" /></a> |
+
+
+
 
 <div id="user-content-toc">
   <ul align="center">
