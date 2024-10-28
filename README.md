@@ -53,7 +53,12 @@ public class HolaMundo {
   </ul>
 </div>
 
+¡Bienvenido! Aquí podrás encontrar algunos de los proyectos y desarrollos en los que he trabajado. Échales un vistazo 👉 
 
+| Jungle System | Inventory Jungle System |
+| ------------- | ----------------------- |
+| <a href="https://junglesystem.com.mx/" target="_blank"><img src="https://github.com/user-attachments/assets/2d1d0a66-58db-420f-9a24-f25c73fc7582" alt="Jungle System" /></a> | <img ![image](https://github.com/user-attachments/assets/ac3cec3d-be05-433a-ac27-6a9e3f9a4202)
+ /> 
 
 <div id="user-content-toc">
   <ul align="center">
