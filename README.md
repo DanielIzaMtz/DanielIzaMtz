@@ -49,6 +49,14 @@ public class HolaMundo {
 
 <div id="user-content-toc">
   <ul align="center">
+    <summary><h2 style="display: inline-block"> 🧑‍💻 Proyectos 🌐</h2></summary>
+  </ul>
+</div>
+
+
+
+<div id="user-content-toc">
+  <ul align="center">
     <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"><h2 style="display: inline-block">Conéctate Conmigo🤝</h2></summary>
   </ul>
 </div>
