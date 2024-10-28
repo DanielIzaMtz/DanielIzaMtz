@@ -57,7 +57,7 @@ public class HolaMundo {
 
 | Jungle System | Inventory Jungle System | 
 | ------------- | ----------------------- |
-| <a href="https://junglesystem.com.mx/" target="_blank"><img src="https://github.com/user-attachments/assets/3f06fe8a-518b-48d4-a0c5-e7281efbc873" alt="Jungle System" /></a> | <a href="https://URL_DESEADA_2" target="_blank"><img src="https://github.com/user-attachments/assets/ac3cec3d-be05-433a-ac27-6a9e3f9a4202" alt="Inventory Jungle System" /></a> |
+| <a href="https://junglesystem.com.mx/" target="_blank"><img src="https://github.com/user-attachments/assets/3f06fe8a-518b-48d4-a0c5-e7281efbc873" alt="Jungle System" /></a> | <a href="https://pos.im22.com.mx/ingreso" target="_blank"><img src="https://github.com/user-attachments/assets/ac3cec3d-be05-433a-ac27-6a9e3f9a4202" alt="Inventory Jungle System" /></a> |
 
 | Diego Coria | Aqua-Vision |
 | ------------- | ----------------------- |
@@ -69,9 +69,7 @@ public class HolaMundo {
 
 | VivoCable | ImperialTicket (Proyecto Escolar)|
 | ------------- | ----------------------- |
-| <a href="https://vivocable.tv/" target="_blank"><img src="https://github.com/user-attachments/assets/6917709c-7f5c-48d3-b54b-0911efe4dd92" alt="Diego Coria" /></a> | <a target="_blank"><img src="https://github.com/user-attachments/assets/f857ff3b-f60a-457b-baea-0d27cbae1b9d" alt="Aqua-Vision" /></a> |
-
-
+| <a href="https://vivocable.tv/" target="_blank"><img src="https://github.com/user-attachments/assets/6917709c-7f5c-48d3-b54b-0911efe4dd92" alt="Diego Coria" /></a> | <a target="_blank"><img src="https://github.com/user-attachments/assets/546f4eb5-fb47-4d30-9600-333f6bf56f8d" alt="Aqua-Vision" /></a> |
 
 
 <div id="user-content-toc">
